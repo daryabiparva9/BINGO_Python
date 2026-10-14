@@ -1,0 +1,10 @@
+graph,edges,max_out_degree,log10_P_Option_C,log10_P_Option_B,log10_P_Edges_only
+Option_C_sample_1,220,32,-409.176,-409.837,-458.611
+Option_C_sample_2,264,61,-445.643,-446.758,-532.784
+Option_C_sample_3,306,78,-422.395,-430.806,-603.585
+Option_B_sample_1,249,31,-456.759,-456.057,-507.498
+Option_B_sample_2,194,9,-412.867,-411.808,-414.782
+Option_B_sample_3,231,34,-432.872,-432.525,-477.155
+Edges_only_sample_1,188,6,-410.892,-409.546,-404.668
+Edges_only_sample_2,207,6,-446.719,-444.670,-436.697
+Edges_only_sample_3,203,6,-435.664,-434.137,-429.954
